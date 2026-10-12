@@ -57,13 +57,23 @@ A Java Android app exploring browsing, reservations, orders and community featur
 ## 🧰 Languages, Frameworks & Tools
 
 <p>
-  <img src="assets/badges/java.svg" alt="Java" height="26">
-  <img src="assets/badges/android.svg" alt="Android" height="26">
-  <img src="assets/badges/typescript.svg" alt="TypeScript" height="26">
-  <img src="assets/badges/javascript.svg" alt="JavaScript" height="26">
-  <img src="assets/badges/nodejs.svg" alt="Node.js" height="26">
-  <img src="assets/badges/sqlite.svg" alt="SQLite" height="26">
-  <img src="assets/badges/git.svg" alt="Git" height="26">
+  <img src="assets/badges/java.svg" alt="Java" height="20">
+  <img src="assets/badges/typescript.svg" alt="TypeScript" height="20">
+  <img src="assets/badges/javascript.svg" alt="JavaScript" height="20">
+  <img src="assets/badges/html5.svg" alt="HTML5" height="20">
+  <img src="assets/badges/css3.svg" alt="CSS3" height="20">
+  <br>
+  <img src="assets/badges/android.svg" alt="Android" height="20">
+  <img src="assets/badges/nodejs.svg" alt="Node.js" height="20">
+  <img src="assets/badges/sqlite.svg" alt="SQLite" height="20">
+  <img src="assets/badges/gradle.svg" alt="Gradle" height="20">
+  <br>
+  <img src="assets/badges/git.svg" alt="Git" height="20">
+  <img src="assets/badges/github-tool.svg" alt="GitHub" height="20">
+  <img src="assets/badges/docker.svg" alt="Docker" height="20">
+  <img src="assets/badges/github-actions.svg" alt="GitHub Actions" height="20">
+  <img src="assets/badges/vitest.svg" alt="Vitest" height="20">
+  <img src="assets/badges/pnpm.svg" alt="pnpm" height="20">
 </p>
 
 ---
