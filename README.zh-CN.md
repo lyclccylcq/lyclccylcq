@@ -46,11 +46,11 @@
 
 **Java · Android · ViewBinding · RecyclerView**
 
-### Java 与 Android 基础实践
+### [Java 基础练习](https://github.com/lyclccylcq/COMP6710)
 
-包括 [Java 课程练习](https://github.com/lyclccylcq/COMP6710)、[本地聊天界面练习](https://github.com/lyclccylcq/UIBestPractice) 和 [自适应新闻阅读器演示](https://github.com/lyclccylcq/FragmentBestPractice)。
+记录 Java 课程练习与课后实践，积累软件开发的基础能力。
 
-**Java · AndroidX Fragments · RecyclerView**
+**Java**
 
 ---
 

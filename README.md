@@ -46,11 +46,11 @@ A Java Android app exploring browsing, reservations, orders and community featur
 
 **Java · Android · ViewBinding · RecyclerView**
 
-### Java & Android Foundations
+### [Java Foundations](https://github.com/lyclccylcq/COMP6710)
 
-[Java coursework](https://github.com/lyclccylcq/COMP6710), a [local chat-interface study](https://github.com/lyclccylcq/UIBestPractice) and an [adaptive news-reader demo](https://github.com/lyclccylcq/FragmentBestPractice).
+Java coursework and practice exercises, documenting the foundations behind my software work.
 
-**Java · AndroidX Fragments · RecyclerView**
+**Java**
 
 ---
 
