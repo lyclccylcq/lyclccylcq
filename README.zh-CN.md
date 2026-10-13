@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/study-still.png">
-    <img src="assets/study-v2.gif" width="100%" alt="黑发角色在蓝色科技工作室中轻点键盘并眨眼，发梢和衣袖轻动，屏幕光随动作变化，光点缓慢漂浮。">
+    <img src="assets/study-v3.gif" width="100%" alt="黑发角色在蓝色科技工作室中随呼吸轻轻上下起伏，眨眼并点按键盘，背景保持稳定，光点缓慢漂浮。">
   </picture>
 </p>
 
