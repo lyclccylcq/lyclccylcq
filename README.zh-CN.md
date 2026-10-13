@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Java 与 Android · AI Agent · 语音与 RAG · 全栈开发</strong><br>
-  认真迭代，把想法做成有用的软件。
+  把想法做成服务工作、规划与日常生活的实用工具。
 </p>
 
 <p align="center">
@@ -22,35 +22,35 @@
 
 ## 👋 关于我
 
-我是 **Yukina**，关注 **Java/Android 与全栈应用开发**，目前也在探索 **AI Agent、基于大语言模型的语音交互，以及检索增强生成（RAG）**。
+我是 **Yukina**，使用 **Java/Android 与 TypeScript** 构建**桌面、移动端与协作 Web 应用**。
 
-我喜欢把工程实现和清晰易用的界面结合起来，从 Android 界面练习到多人协作的 Web 应用。近期项目包括 **Wayline**：一个支持共享行程与 AI 辅助规划的旅行工具。
+近期工作围绕 **AI 对话与富有表现力的语音交互**展开，将这些能力用于提醒、旅行规划与多人协作。我关注清晰易用的界面，也重视应用行为的稳定性。
 
-- 🧠 **探索方向：** AI Agent · 语音交互 · RAG
-- 🛠️ **开发实践：** Java 与 Android · 实时协作 Web 应用
-- 🌱 **持续学习：** 算法 · 系统设计 · 人机交互
+- 🛠️ **正在构建：** AI 桌面助手 · 协作 Web 应用 · Android 应用
+- 🎙️ **技术方向：** 大语言模型流式回复 · GPT-SoVITS · 实时协作
+- 🧠 **持续探索：** AI Agent · 语音交互 · RAG
 
 ---
 
 ## ✨ 精选项目
 
+### [Closure](https://github.com/lyclccylcq/Closure)
+
+支持流式 AI 对话与 GPT-SoVITS 情感语音的桌面助手，提供日程、截止日期和工作休息提醒。
+
+**Java 21 · JavaFX · Swing · GPT-SoVITS**
+
 ### [Wayline](https://github.com/comp4020-agentic-coding-studio/comp4020-final-lyclccylcq)
 
-支持实时行程协作和地图规划的旅行工具，AI 助手提供建议，由用户作出最终决定。
+结合共享行程、路线规划与 AI 辅助编辑的协作旅行工具；行程修改由用户审核确认，并支持浏览器之间的语音通话。
 
-**TypeScript · Node.js · SQLite · Server-Sent Events**
+**TypeScript · Node.js · SQLite · Server-Sent Events · WebRTC**
 
 ### [BybookPro](https://github.com/lyclccylcq/BybookPro)
 
-使用 Java 开发的 Android 应用，探索内容浏览、预约、订单与社区功能。
+使用 Java 开发的 Android 应用，提供内容浏览、预约、订单流程与社区功能。
 
 **Java · Android · ViewBinding · RecyclerView**
-
-### [Java 基础练习](https://github.com/lyclccylcq/COMP6710)
-
-记录 Java 课程练习与课后实践，积累软件开发的基础能力。
-
-**Java**
 
 ---
 

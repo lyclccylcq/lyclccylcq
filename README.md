@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Java &amp; Android · AI Agents · Voice &amp; RAG · Full-stack</strong><br>
-  Building useful software, one thoughtful iteration at a time.
+  Building thoughtful tools for work, planning and everyday life.
 </p>
 
 <p align="center">
@@ -22,35 +22,35 @@
 
 ## 👋 About Me
 
-I'm **Yukina**, a developer working across **Java/Android and full-stack applications**. I'm currently exploring **AI agents, LLM-powered voice interfaces and retrieval-augmented generation (RAG)**.
+I'm **Yukina**. I build **desktop, mobile and collaborative web applications** with **Java/Android and TypeScript**.
 
-I enjoy connecting practical engineering with clear, usable interfaces—from Android UI experiments to collaborative web applications. My recent work includes **Wayline**, a travel planner with shared itineraries and an AI copilot.
+My current work connects **AI conversations and expressive voice interfaces** with tools for reminders, travel planning and collaboration. I care about making these features useful through clear interfaces and reliable application behavior.
 
-- 🧠 **Exploring:** AI agents · Voice interfaces · RAG
-- 🛠️ **Building:** Java & Android · Real-time web applications
-- 🌱 **Learning:** Algorithms · System design · Human–AI interaction
+- 🛠️ **Building:** AI desktop companions · Collaborative web apps · Android apps
+- 🎙️ **Working with:** Streaming LLM replies · GPT-SoVITS · Real-time collaboration
+- 🧠 **Exploring:** AI agents · Voice interaction · RAG
 
 ---
 
 ## ✨ Selected Work
 
+### [Closure](https://github.com/lyclccylcq/Closure)
+
+A desktop AI companion with streaming conversations, expressive GPT-SoVITS speech, and reminders for schedules, deadlines and work breaks.
+
+**Java 21 · JavaFX · Swing · GPT-SoVITS**
+
 ### [Wayline](https://github.com/comp4020-agentic-coding-studio/comp4020-final-lyclccylcq)
 
-A collaborative travel planner with real-time itineraries, map-based planning and an AI copilot that helps people make the final call.
+A collaborative travel planner combining shared itineraries, route-aware planning and an AI copilot with user-approved edits. Includes browser-to-browser voice calls.
 
-**TypeScript · Node.js · SQLite · Server-Sent Events**
+**TypeScript · Node.js · SQLite · Server-Sent Events · WebRTC**
 
 ### [BybookPro](https://github.com/lyclccylcq/BybookPro)
 
-A Java Android app exploring browsing, reservations, orders and community features.
+A Java Android application for browsing, reservations, order flows and community features.
 
 **Java · Android · ViewBinding · RecyclerView**
-
-### [Java Foundations](https://github.com/lyclccylcq/COMP6710)
-
-Java coursework and practice exercises, documenting the foundations behind my software work.
-
-**Java**
 
 ---
 
