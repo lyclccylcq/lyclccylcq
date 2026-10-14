@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/study-still.png">
-    <img src="assets/study-v3.gif" width="100%" alt="A black-haired character gently sways with a breathing rhythm, blinks and taps the keyboard in a blue-lit workshop, with steady surroundings and drifting light particles.">
+    <img src="assets/study-v4.gif" width="100%" alt="A black-haired character gently breathes, blinks and taps the keyboard in a blue-lit workshop, while a bat-like robot hovers and flexes its wings, the laptop light softly pulses and luminous dust drifts.">
   </picture>
 </p>
 
